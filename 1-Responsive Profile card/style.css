@@ -35,6 +35,8 @@ body{
     border-radius: 50%;
     background-color: #4070f4;
     padding: 3px; 
+    margin-bottom: 10px;
+    
 }
 
 .image .profile-img{
