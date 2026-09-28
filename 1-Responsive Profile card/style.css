@@ -7,6 +7,12 @@
 
 .image{
     position: relative;
-    height: ;
+    height: 150px;
+    width: 150px;
 
+}
+
+.image .profile-card{
+    height: 100%;
+    
 }
