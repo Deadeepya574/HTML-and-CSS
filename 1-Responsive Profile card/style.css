@@ -9,7 +9,11 @@
 }
 
 body{
-    height: ;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f4f4f4;
 }
 
 .image{
